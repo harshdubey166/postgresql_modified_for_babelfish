@@ -1751,6 +1751,7 @@ OnConflictExpr
 OnConflictSetState
 OpBtreeInterpretation
 OpClassCacheEnt
+Openxml_expr
 OpExpr
 OpFamilyMember
 OpFamilyOpFuncGroup
